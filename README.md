@@ -1,3 +1,5 @@
+<?php
+
 $usuarios = [
     [
         "nome" => "Reginaldo",
